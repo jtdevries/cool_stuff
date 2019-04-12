@@ -128,4 +128,8 @@ html .container .card article span {
   letter-spacing: .05em;
   margin: 2em 0 0 0;
 }
+
+html .container2 {
+  max-width: 300px;
+}
 /*# sourceMappingURL=primary.css.map */
